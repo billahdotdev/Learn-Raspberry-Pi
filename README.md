@@ -28,6 +28,7 @@ Raspberry Pi boards have gained popularity for a wide range of applications, inc
 
 
 Setting up a Raspberry Pi:
+
 As a new user Setting up a Raspberry Pi has several steps. Here's a general guide to help you get started:
 
 1. Obtain Necessary Hardware:
