@@ -19,9 +19,12 @@ Raspberry Pi boards have gained popularity for a wide range of applications, inc
 02. DIY Projects: Hobbyists and enthusiasts use Raspberry Pi boards for various DIY projects, including home automation, robotics, gaming consoles,
     media centers, weather stations, and more.
 
-3. Prototyping: Professionals and researchers utilize Raspberry Pi boards for prototyping and developing proof-of-concept projects in various fields,
+03. Prototyping: Professionals and researchers utilize Raspberry Pi boards for prototyping and developing proof-of-concept projects in various fields,
    including IoT (Internet of Things), automation, and embedded systems.
 
-4. Server and Network Applications: Raspberry Pi boards can be repurposed as servers for hosting websites, game servers, file servers, and as network-attached storage (NAS) devices.
+04. Server and Network Applications: Raspberry Pi boards can be repurposed as servers for hosting websites, game servers, file servers, and as network-attached storage (NAS) devices.
 
-5. Commercial Products: Some companies leverage Raspberry Pi boards as components in commercial products such as digital signage, IoT devices, and educational kits.
+05. Commercial Products: Some companies leverage Raspberry Pi boards as components in commercial products such as digital signage, IoT devices, and educational kits.
+
+
+Setting up a Raspberry Pi:
