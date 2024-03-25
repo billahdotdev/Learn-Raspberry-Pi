@@ -30,3 +30,11 @@ Raspberry Pi boards have gained popularity for a wide range of applications, inc
 Setting up a Raspberry Pi:
 As a new user Setting up a Raspberry Pi has several steps. Here's a general guide to help you get started:
 
+1. Obtain Necessary Hardware:
+    • Raspberry Pi 5 board (Pi 4 also works well)
+    • MicroSD card (32GB recommended)
+    • Power supply (depending on your Raspberry Pi model)
+    • HDMI cable (if you plan to connect to a monitor)
+    • Keyboard and mouse
+    • Monitor with HDMI input
+
