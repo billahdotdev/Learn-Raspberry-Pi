@@ -3,16 +3,25 @@ The Raspberry Pi is a series of small, affordable, single-board computers develo
 The Raspberry Pi 5 is the latest model that comes in 1 GB, 2 GB, 4 GB, and 8 GB models. The 8 GB model has a quad-core Broadcom BCM2712 ARM Cortex-A76 64-bit processor clocked at 2.4 GHz, and 8 GB of LPDDR4X-4267 RAM. It also has the following features:
 
 • Two microHDMI connectors
+
 • Two USB 3.0 ports
+
 • Two USB 2.0 ports
+
 • USB C power connector
+
 • Two interfaces for the camera
+
 • MIPI DSI/CSI display
+
 • VideoCore VII GPU clocked at 800 MHz
+
 • WiFi module
+
 • Bluetooth LE module
 
-Raspberry Pi boards have gained popularity for a wide range of applications, including:
+
+// Raspberry Pi boards have gained popularity for a wide range of applications, including:
 
 01. Education: Raspberry Pi computers are widely used in schools and educational institutions to teach programming, computer science, and electronics.
 
@@ -29,7 +38,7 @@ Raspberry Pi boards have gained popularity for a wide range of applications, inc
 
 
    
-Obtain Necessary Hardware:
+// Obtain Necessary Hardware:
    
 
     • Raspberry Pi 5 board (Pi 4 also works well)
@@ -41,7 +50,7 @@ Obtain Necessary Hardware:
 
 
 
-Where to buy?
+// Where to buy?
 
 You can buy Raspberry Pi boards and accessories from various online and offline retailers. Here are some popular options:
      
@@ -53,11 +62,9 @@ You can buy Raspberry Pi boards and accessories from various online and offline 
 4. Educational Suppliers: Educational suppliers and stores catering to STEM education often stock Raspberry Pi boards and kits.
 
  
-Setting up a Raspberry Pi:
+// Setting up a Raspberry Pi:
 
-Install Operating System with Windows PC:
-
-To install or "burn" Raspberry Pi OS onto a microSD card using a Windows PC, you can follow these steps:
+Install Operating System with Windows PC: To install or "burn" Raspberry Pi OS onto a microSD card using a Windows PC, you can follow these steps:
 
   
 1. Download Raspberry Pi Imager: First, download and install the Raspberry Pi Imager software for Windows from the official Raspberry Pi website. You can get it from here: 
@@ -89,10 +96,10 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
    
 
 
-Install Operating System with terminal (If you are familiar with them):
+//Install Operating System with terminal (If you are familiar with them):
 
 
-//before run the command make sure it is updated and upgraded.
+before run the command make sure it is updated and upgraded.
 
          sudo apt install rpi-imager
 
