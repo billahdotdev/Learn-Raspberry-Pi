@@ -51,7 +51,9 @@ As a new user Setting up a Raspberry Pi has several steps. Here's a general guid
 2. Install Operating System:
 
    • Download the latest version of Raspberry Pi OS (formerly Raspbian) from the official Raspberry Pi website: https://www.raspberrypi.org/software/.
-   If you want to try other Linux distro (OS) like Ubuntu, Kali, Fedora, Arch, etc. download it from trusted sites. 
+   If you want to try other Linux distro (OS) like Ubuntu, Kali, Fedora, Arch, etc. download it from trusted sites.
+
+   (will continue...)
 
    
 
