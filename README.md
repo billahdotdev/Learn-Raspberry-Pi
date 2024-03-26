@@ -28,12 +28,7 @@ Raspberry Pi boards have gained popularity for a wide range of applications, inc
 
 
    
-
-
- Setting up a Raspberry Pi:
-As a new user Setting up a Raspberry Pi has several steps. Here's a general guide to help you get started:
-
-1. Obtain Necessary Hardware:
+Obtain Necessary Hardware:
 
    • Raspberry Pi 5 board (Pi 4 also works well)
    
@@ -48,7 +43,27 @@ As a new user Setting up a Raspberry Pi has several steps. Here's a general guid
     • Monitor with HDMI input
 
 
-2. Install Operating System with windows pc:
+
+Where to buy?
+
+ You can buy Raspberry Pi boards and accessories from various online and offline retailers. Here are some popular options:
+ 
+     1. Official Raspberry Pi Website: The official Raspberry Pi website (https://www.raspberrypi.org/) has an online store where you can buy Raspberry Pi boards, accessories, and kits directly from the Raspberry Pi Foundation.
+     
+    2. Distributors: The Raspberry Pi Foundation has authorized distributors worldwide. You can check the list of distributors on their website to find one near you.
+    
+    3. Online Retailers: Many online retailers sell Raspberry Pi boards and accessories, including:
+        ◦ Amazon
+        ◦ eBay
+        
+    4. Educational Suppliers: Educational suppliers and stores catering to STEM education often stock Raspberry Pi boards and kits.
+
+ 
+ Setting up a Raspberry Pi:
+As a new user Setting up a Raspberry Pi has several steps. Here's a general guide to help you get started:
+
+
+Install Operating System with windows pc:
 
   To install or "burn" Raspberry Pi OS onto a microSD card using a Windows PC, you can follow these steps:
 
@@ -66,17 +81,18 @@ As a new user Setting up a Raspberry Pi has several steps. Here's a general guid
     5. Select SD Card: Click on "Choose SD Card" and select the microSD card you inserted earlier. Be careful to choose the correct drive, as selecting the wrong drive could result in 
        data loss.
     
-    6. Write the Image: After selecting the OS and the SD card, click on the "Write" button to start the process. Raspberry Pi Imager will download the Raspberry Pi OS image and write it 
-       to the microSD card. This process may take a few minutes depending on the speed of your SD card and internet connection.
+    6. Write the Image: After selecting the OS and the SD card, click on the "Write" button to start the process. Raspberry Pi Imager will download the Raspberry Pi OS image and write it        to the microSD card. This process may take a few minutes depending on the speed of your SD card and internet connection.
     
     7. Eject SD Card: Once the writing process is complete, safely eject the microSD card from your PC.
     
     8. Insert MicroSD Card into Raspberry Pi: Now, insert the microSD card into your Raspberry Pi's microSD card slot.
+
+    9. Connect your Raspberry Pi to a monitor using an HDMI cable, and connect a keyboard and mouse.
     
-    9. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source, and it should boot up into Raspberry Pi OS.
+    10. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source, and it should boot up into Raspberry Pi OS.
     
 Following these steps should allow you to install Raspberry Pi OS onto a microSD card using a Windows PC, ready to be used with your Raspberry Pi.
    
 
   
-
+Install Operating System with terminals of mac or linux:
