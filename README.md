@@ -89,8 +89,10 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
    
 
 
+
   
 Install Operating System with terminal (If you are familiar with them):
+
 
 //before run the command make sure it is updated and upgraded.
 
