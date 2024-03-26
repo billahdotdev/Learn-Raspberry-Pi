@@ -107,7 +107,11 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
 
     
 03. Install Raspberry Pi Imager: You can install Raspberry Pi Imager using apt: This command will install Raspberry Pi Imager along with any necessary dependencies.
+
+   
                           sudo apt install rpi-imager
+04. Run Raspberry Pi Imager: After the installation is complete, you can launch Raspberry Pi Imager either from the applications menu or by running the following command in the terminal:
+     rpi-imager
 
    
 
