@@ -117,5 +117,6 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
         ◦ Choose the operating system you want to install (e.g., Raspberry Pi OS).
         ◦ Select the SD card or USB drive you want to write the image to.
         ◦ Click on "Write" to start the process. Be sure to select the correct drive, as all data on the selected drive will be erased during this process.
-   
+       
+  06. Wait for Completion: The writing process may take some time depending on the size of the image and the speed of your SD card or USB drive. Once it's done, you'll get a confirmation message.
 
