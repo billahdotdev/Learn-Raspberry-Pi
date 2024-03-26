@@ -106,37 +106,36 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
 <br/>
 <br/>
     
-   
-
 
 //Install Operating System with terminal (If you are familiar with the terminal):
 
 
 01. Open Terminal: First, open the terminal on your Raspberry Pi. You can find it in the applications menu or by pressing Ctrl + Alt + T.
+   
 02. Update Package Lists: It's a good practice to update your package lists before installing new software. Run the following command:
                           sudo apt update
 
     
-03. Install Raspberry Pi Imager: You can install Raspberry Pi Imager using apt: This command will install Raspberry Pi Imager along with any necessary dependencies.
+4. Install Raspberry Pi Imager: You can install Raspberry Pi Imager using apt: This command will install Raspberry Pi Imager along with any necessary dependencies.
 
    
                           sudo apt install rpi-imager
-04. Run Raspberry Pi Imager: After the installation is complete, you can launch Raspberry Pi Imager either from the applications menu or by running the following command in the terminal:
+5. Run Raspberry Pi Imager: After the installation is complete, you can launch Raspberry Pi Imager either from the applications menu or by running the following command in the terminal:
      rpi-imager
     
 
-05. Using Raspberry Pi Imager: Once Raspberry Pi Imager is open, you can use it to write an operating system image to an SD card or USB drive for your Raspberry Pi.
+6. Using Raspberry Pi Imager: Once Raspberry Pi Imager is open, you can use it to write an operating system image to an SD card or USB drive for your Raspberry Pi.
         ◦ Choose the operating system you want to install (e.g., Raspberry Pi OS).
         ◦ Select the SD card or USB drive you want to write the image to.
         ◦ Click on "Write" to start the process. Be sure to select the correct drive, as all data on the selected drive will be erased during this process.
        
-  06. Wait for Completion: The writing process may take some time depending on the size of the image and the speed of your SD card or USB drive. Once it's done, you'll get a confirmation message.
+  7. Wait for Completion: The writing process may take some time depending on the size of the image and the speed of your SD card or USB drive. Once it's done, you'll get a confirmation message.
 
-  07. Eject SD Card or USB Drive: After writing the image, safely eject the SD card or USB drive from your Raspberry Pi.
+  8. Eject SD Card or USB Drive: After writing the image, safely eject the SD card or USB drive from your Raspberry Pi.
 
-  8. Insert MicroSD Card into Raspberry Pi: Now, insert the microSD card into your Raspberry Pi's microSD card slot.
+  9. Insert MicroSD Card into Raspberry Pi: Now, insert the microSD card into your Raspberry Pi's microSD card slot.
 
-9. Connect your Raspberry Pi to a monitor using an HDMI cable, and connect a keyboard and mouse.
+10. Connect your Raspberry Pi to a monitor using an HDMI cable, and connect a keyboard and mouse.
     
-10. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source, and it should boot up into Raspberry Pi OS. 
+11. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source, and it should boot up into Raspberry Pi OS. 
 
