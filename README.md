@@ -49,15 +49,13 @@ You can buy Raspberry Pi boards and accessories from various online and offline 
 1. Official Raspberry Pi Website: The official Raspberry Pi website (https://www.raspberrypi.org/) has an online store where you can buy Raspberry Pi boards, accessories, and kits 
    directly from the Raspberry Pi Foundation.
 2. Distributors: The Raspberry Pi Foundation has authorized distributors worldwide. You can check the list of distributors on their website to find one near you.
-3. Online Retailers: Many online retailers sell Raspberry Pi boards and accessories, including:
-   ◦ Amazon
-   ◦ eBay
+3. Online Retailers: Many online retailers sell Raspberry Pi boards and accessories like Amazon, and eBay.
 4. Educational Suppliers: Educational suppliers and stores catering to STEM education often stock Raspberry Pi boards and kits.
 
  
 Setting up a Raspberry Pi:
 
-Install Operating System with windows pc:
+Install Operating System with Windows PC:
 
 To install or "burn" Raspberry Pi OS onto a microSD card using a Windows PC, you can follow these steps:
 
@@ -72,10 +70,10 @@ To install or "burn" Raspberry Pi OS onto a microSD card using a Windows PC, you
 4. Choose Raspberry Pi OS: In the Raspberry Pi Imager software, you'll see a list of operating systems. Select "Raspberry Pi OS (other)" or "Raspberry Pi OS Lite (other)" depending 
    on whether you want the full desktop version or the Lite version (which is command-line only).
     
-5. Select SD Card: Click on "Choose SD Card" and select the microSD card you inserted earlier. Be careful to choose the correct drive, as selecting the wrong drive could result in 
+5. Select SD Card: Click "Choose SD Card" and select the microSD card you inserted earlier. Be careful to choose the correct drive, as selecting the wrong drive could result in 
    data loss.
     
-6. Write the Image: After selecting the OS and the SD card, click on the "Write" button to start the process. Raspberry Pi Imager will download and write the Raspberry Pi OS image 
+6. Write the Image: After selecting the OS and the SD card, click the "Write" button to start the process. Raspberry Pi Imager will download and write the Raspberry Pi OS image 
    to the microSD card. This process may take a few minutes depending on the speed of your SD card and internet connection. 
       
 Or you can use a program like Etcher (https://www.balena.io/etcher/) to write the image to the microSD card. This process is called "flashing."
