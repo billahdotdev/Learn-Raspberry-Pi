@@ -28,7 +28,8 @@ Raspberry Pi boards have gained popularity for a wide range of applications, inc
 
 
    
-Obtain Necessary Hardware:
+   Obtain Necessary Hardware:
+   
 
    • Raspberry Pi 5 board (Pi 4 also works well)
    
@@ -61,10 +62,8 @@ Where to buy?
 
  
  Setting up a Raspberry Pi:
-As a new user Setting up a Raspberry Pi has several steps. Here's a general guide to help you get started:
 
-
-Install Operating System with windows pc:
+  Install Operating System with windows pc:
 
   To install or "burn" Raspberry Pi OS onto a microSD card using a Windows PC, you can follow these steps:
 
