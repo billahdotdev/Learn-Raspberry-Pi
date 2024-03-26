@@ -48,7 +48,8 @@ Where to buy?
 
  You can buy Raspberry Pi boards and accessories from various online and offline retailers. Here are some popular options:
  
-     1. Official Raspberry Pi Website: The official Raspberry Pi website (https://www.raspberrypi.org/) has an online store where you can buy Raspberry Pi boards, accessories, and kits directly from the Raspberry Pi Foundation.
+     1. Official Raspberry Pi Website: The official Raspberry Pi website (https://www.raspberrypi.org/) has an online store where you can buy Raspberry Pi boards, accessories, and kits 
+        directly from the Raspberry Pi Foundation.
      
     2. Distributors: The Raspberry Pi Foundation has authorized distributors worldwide. You can check the list of distributors on their website to find one near you.
     
