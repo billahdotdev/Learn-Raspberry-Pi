@@ -83,7 +83,9 @@ Install Operating System with windows pc:
        data loss.
     
     6. Write the Image: After selecting the OS and the SD card, click on the "Write" button to start the process. Raspberry Pi Imager will download and write the Raspberry Pi OS image 
-       to the microSD card. This process may take a few minutes depending on the speed of your SD card and internet connection.
+       to the microSD card. This process may take a few minutes depending on the speed of your SD card and internet connection. 
+      
+       Or you can use a program like Etcher (https://www.balena.io/etcher/) to write the image to the microSD card. This process is called "flashing."
     
     7. Eject SD Card: Once the writing process is complete, safely eject the microSD card from your PC.
     
