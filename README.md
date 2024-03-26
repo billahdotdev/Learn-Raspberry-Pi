@@ -105,4 +105,8 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
 02. Update Package Lists: It's a good practice to update your package lists before installing new software. Run the following command:
                           sudo apt update
 
+    
+03. Install Raspberry Pi Imager: You can install Raspberry Pi Imager using apt:
+                          sudo apt install rpi-imager
+   
 
