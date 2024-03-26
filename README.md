@@ -96,7 +96,7 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
    
 
 
-//Install Operating System with terminal (If you are familiar with them):
+//Install Operating System with terminal (If you are familiar with the terminal):
 
 
 before run the command make sure it is updated and upgraded.
