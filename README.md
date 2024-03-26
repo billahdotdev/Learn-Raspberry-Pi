@@ -112,8 +112,9 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
                           sudo apt install rpi-imager
 04. Run Raspberry Pi Imager: After the installation is complete, you can launch Raspberry Pi Imager either from the applications menu or by running the following command in the terminal:
      rpi-imager
+    
 
-    5. Using Raspberry Pi Imager: Once Raspberry Pi Imager is open, you can use it to write an operating system image to an SD card or USB drive for your Raspberry Pi.
+05. Using Raspberry Pi Imager: Once Raspberry Pi Imager is open, you can use it to write an operating system image to an SD card or USB drive for your Raspberry Pi.
         ◦ Choose the operating system you want to install (e.g., Raspberry Pi OS).
         ◦ Select the SD card or USB drive you want to write the image to.
         ◦ Click on "Write" to start the process. Be sure to select the correct drive, as all data on the selected drive will be erased during this process.
