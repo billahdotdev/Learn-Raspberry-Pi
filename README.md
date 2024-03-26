@@ -27,20 +27,16 @@ Raspberry Pi boards have gained popularity for a wide range of applications, inc
 05. Commercial Products: Some companies leverage Raspberry Pi boards as components in commercial products such as digital signage, IoT devices, and educational kits.
 
 
+
    
-   Obtain Necessary Hardware:
+Obtain Necessary Hardware:
    
 
-   • Raspberry Pi 5 board (Pi 4 also works well)
-   
+    • Raspberry Pi 5 board (Pi 4 also works well)
     • MicroSD card (32GB recommended)
-   
     • Power supply (depending on your Raspberry Pi model)
-   
     • HDMI cable (if you plan to connect to a monitor)
-   
     • Keyboard and mouse
-   
     • Monitor with HDMI input
 
 
