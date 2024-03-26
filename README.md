@@ -47,3 +47,10 @@ As a new user Setting up a Raspberry Pi has several steps. Here's a general guid
    
     • Monitor with HDMI input
 
+
+2. Install Operating System:
+
+   
+
+  
+
