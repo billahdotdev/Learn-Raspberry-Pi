@@ -64,6 +64,12 @@ You can buy Raspberry Pi boards and accessories from various online and offline 
  <br/>
  <br/>
  <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
 // Setting up a Raspberry Pi:
 
 Install Operating System with Windows PC: To install or "burn" Raspberry Pi OS onto a microSD card using a Windows PC, you can follow these steps:
