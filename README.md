@@ -38,8 +38,9 @@ The Raspberry Pi 5 is the latest model that comes in 1 GB, 2 GB, 4 GB, and 8 GB 
 
 05. Commercial Products: Some companies leverage Raspberry Pi boards as components in commercial products such as digital signage, IoT devices, and educational kits.
 
-
-
+<br/>
+<br/>
+<br/>
    
 // Obtain Necessary Hardware:
    
