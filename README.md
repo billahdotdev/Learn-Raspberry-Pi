@@ -106,7 +106,8 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
                           sudo apt update
 
     
-03. Install Raspberry Pi Imager: You can install Raspberry Pi Imager using apt:
+03. Install Raspberry Pi Imager: You can install Raspberry Pi Imager using apt: This command will install Raspberry Pi Imager along with any necessary dependencies.
                           sudo apt install rpi-imager
+
    
 
