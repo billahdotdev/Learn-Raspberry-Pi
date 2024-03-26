@@ -25,11 +25,12 @@ Raspberry Pi boards have gained popularity for a wide range of applications, inc
 04. Server and Network Applications: Raspberry Pi boards can be repurposed as servers for hosting websites, game servers, file servers, and as network-attached storage (NAS) devices.
 
 05. Commercial Products: Some companies leverage Raspberry Pi boards as components in commercial products such as digital signage, IoT devices, and educational kits.
+
+
    
 
 
-
-    Setting up a Raspberry Pi:
+ Setting up a Raspberry Pi:
 As a new user Setting up a Raspberry Pi has several steps. Here's a general guide to help you get started:
 
 1. Obtain Necessary Hardware:
