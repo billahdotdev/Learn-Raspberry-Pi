@@ -81,7 +81,8 @@ Install Operating System with windows pc:
     5. Select SD Card: Click on "Choose SD Card" and select the microSD card you inserted earlier. Be careful to choose the correct drive, as selecting the wrong drive could result in 
        data loss.
     
-    6. Write the Image: After selecting the OS and the SD card, click on the "Write" button to start the process. Raspberry Pi Imager will download the Raspberry Pi OS image and write it        to the microSD card. This process may take a few minutes depending on the speed of your SD card and internet connection.
+    6. Write the Image: After selecting the OS and the SD card, click on the "Write" button to start the process. Raspberry Pi Imager will download and write the Raspberry Pi OS image 
+       to the microSD card. This process may take a few minutes depending on the speed of your SD card and internet connection.
     
     7. Eject SD Card: Once the writing process is complete, safely eject the microSD card from your PC.
     
@@ -91,8 +92,14 @@ Install Operating System with windows pc:
     
     10. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source, and it should boot up into Raspberry Pi OS.
     
-Following these steps should allow you to install Raspberry Pi OS onto a microSD card using a Windows PC, ready to be used with your Raspberry Pi.
    
 
   
-Install Operating System with terminals of mac or linux:
+Install Operating System with terminal (If you are familiar with them):
+
+//before run the command make sure it is updated and upgraded.
+
+sudo apt install rpi-imager
+
+
+
