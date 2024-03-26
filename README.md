@@ -128,17 +128,20 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
     
 
 7. Using Raspberry Pi Imager: Once Raspberry Pi Imager is open, you can use it to write an operating system image to an SD card or USB drive for your Raspberry Pi.
-        ◦ Choose the operating system you want to install (e.g., Raspberry Pi OS).
-        ◦ Select the SD card or USB drive you want to write the image to.
-        ◦ Click on "Write" to start the process. Be sure to select the correct drive, as all data on the selected drive will be erased during this process.
+   
+◦ Choose the operating system you want to install (e.g., Raspberry Pi OS).
+
+◦ Select the SD card or USB drive you want to write the image to.
+
+◦ Click on "Write" to start the process. Be sure to select the correct drive, as all data on the selected drive will be erased during this process.
        
-  8. Wait for Completion: The writing process may take some time depending on the size of the image and the speed of your SD card or USB drive. Once it's done, you'll get a confirmation message.
+  9. Wait for Completion: The writing process may take some time depending on the size of the image and the speed of your SD card or USB drive. Once it's done, you'll get a confirmation message.
 
-  9. Eject SD Card or USB Drive: After writing the image, safely eject the SD card or USB drive from your Raspberry Pi.
+  10. Eject SD Card or USB Drive: After writing the image, safely eject the SD card or USB drive from your Raspberry Pi.
 
-  10. Insert MicroSD Card into Raspberry Pi: Now, insert the microSD card into your Raspberry Pi's microSD card slot.
+  11. Insert MicroSD Card into Raspberry Pi: Now, insert the microSD card into your Raspberry Pi's microSD card slot.
 
-11. Connect your Raspberry Pi to a monitor using an HDMI cable, and connect a keyboard and mouse.
+12. Connect your Raspberry Pi to a monitor using an HDMI cable, and connect a keyboard and mouse.
     
-12. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source, and it should boot up into Raspberry Pi OS. 
+13. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source, and it should boot up into Raspberry Pi OS. 
 
