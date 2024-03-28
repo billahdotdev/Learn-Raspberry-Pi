@@ -66,7 +66,6 @@ You can buy Raspberry Pi boards and accessories from various online and offline 
 
 <br/>
 <br/>
-<br/>
  
 // Setting up a Raspberry Pi:
 
