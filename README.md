@@ -141,5 +141,7 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
 09. Connect your Raspberry Pi to a monitor using an HDMI cable, and connect a keyboard and mouse.
     
 10. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source,
-    and it should boot up into Raspberry Pi OS. 
+    and it should boot up into Raspberry Pi OS.
+
+    (continued)
 
