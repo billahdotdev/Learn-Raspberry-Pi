@@ -54,7 +54,7 @@ The Raspberry Pi 5 is the latest model that comes in 1 GB, 2 GB, 4 GB, and 8 GB 
 <br/>
 <br/>
 
-// Where to buy?
+**// Where to buy?**
 
 You can buy Raspberry Pi boards and accessories from various online and offline retailers. Here are some popular options:
      
