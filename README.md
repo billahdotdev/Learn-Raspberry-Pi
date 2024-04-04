@@ -144,7 +144,6 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
 10. Power Up Raspberry Pi: Connect your Raspberry Pi to a power source,
     and it should boot up into Raspberry Pi OS.
 
-to be continued...
 
    
 
