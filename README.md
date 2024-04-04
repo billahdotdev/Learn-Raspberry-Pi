@@ -41,7 +41,7 @@ The Raspberry Pi 5 is the latest model that comes in 1 GB, 2 GB, 4 GB, and 8 GB 
 <br/>
 <br/>
    
-// Obtain Necessary Hardware:
+**// Obtain Necessary Hardware:**
    
 
     • Raspberry Pi 5 board (Pi 4 also works well)
