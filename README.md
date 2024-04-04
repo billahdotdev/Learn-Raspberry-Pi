@@ -103,7 +103,7 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
 <br/>
     
 
-//Install Operating System with terminal (If you are familiar with the terminal):
+**//Install Operating System with terminal (If you are familiar with the terminal):**
 
 
 01. Open Terminal: First, open the terminal on your Raspberry Pi. You can find it in the applications menu or by pressing Ctrl + Alt + T.
