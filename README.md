@@ -50,6 +50,7 @@ The Raspberry Pi 5 is the latest model that comes in 1 GB, 2 GB, 4 GB, and 8 GB 
     • HDMI cable (if you plan to connect to a monitor)
     • Keyboard and mouse
     • Monitor with HDMI input
+    • Case, heat sinks, cooling fan (Optional)
 
 <br/>
 <br/>
