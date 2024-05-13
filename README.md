@@ -146,5 +146,7 @@ Or you can use a program like Etcher (https://www.balena.io/etcher/) to write th
     and it should boot up into Raspberry Pi OS.
 
 
+
+
    
 
