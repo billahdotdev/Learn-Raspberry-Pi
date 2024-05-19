@@ -44,7 +44,7 @@ The Raspberry Pi 5 is the latest model that comes in 1 GB, 2 GB, 4 GB, and 8 GB 
 **// Obtain Necessary Hardware:**
    
 
-    • Raspberry Pi 5 board (Pi 4 also works well)
+    • Raspberry Pi 5 board 8 GB (Pi 4 also works well)
     • MicroSD card (32GB recommended)
     • Power supply (depending on your Raspberry Pi model)
     • HDMI cable (if you plan to connect to a monitor)
