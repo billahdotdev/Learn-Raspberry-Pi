@@ -21,7 +21,7 @@ It also has the following features:**
 
 • WiFi module
 
-• Bluetooth LE module
+• Bluetooth LE module  
 
 <br/>
 <br/>
