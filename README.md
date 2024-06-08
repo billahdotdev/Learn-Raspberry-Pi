@@ -5,7 +5,7 @@ The Raspberry Pi 5 is the latest model that comes in 1 GB, 2 GB, 4 GB, and 8 GB 
 
 It also has the following features:**  
 
-• Two microHDMI connectors  
+• Two microHDMI connectors    
 
 • Two USB 3.0 ports
 
