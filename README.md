@@ -1,4 +1,4 @@
-                                            
+                                               
 # Learn Raspberry Pi     
 
 **The Raspberry Pi is a series of small, affordable, single-board computers developed by the Raspberry Pi Foundation, a UK-based charity organization.
