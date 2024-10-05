@@ -1,0 +1,186 @@
+#commands for rashpberrypi (terminal)
+1. System Information
+hostname
+Displays the hostname of the Raspberry Pi.
+
+uptime
+Shows how long the Raspberry Pi has been running, including the load averages.
+
+vcgencmd measure_temp
+Shows the current CPU temperature.
+
+free -h
+Displays the current memory usage.
+
+df -h
+Displays the disk space usage.
+
+top
+Opens a real-time system monitor to show running processes.
+
+uname -a
+Displays detailed information about the system kernel.
+
+2. File System & Navigation
+ls
+List files and directories in the current directory.
+
+cd <directory>
+Change to a specified directory.
+
+pwd
+Displays the current directory path.
+
+mkdir <directory>
+Create a new directory.
+
+rm <file>
+Remove (delete) a file.
+
+rm -r <directory>
+Remove a directory and its contents recursively.
+
+cp <source> <destination>
+Copy files or directories.
+
+mv <source> <destination>
+Move or rename files or directories.
+
+nano <file>
+Open a file in the Nano text editor.
+
+cat <file>
+View the contents of a file.
+
+3. Package Management (APT)
+sudo apt update
+Update the list of available packages.
+
+sudo apt upgrade
+Upgrade all installed packages to their latest version.
+
+sudo apt install <package>
+Install a package.
+
+sudo apt remove <package>
+Remove a package.
+
+sudo apt purge <package>
+Remove a package along with its configuration files.
+
+sudo apt list --installed
+List all installed packages.
+
+sudo apt autoremove
+Remove packages that were automatically installed and are no longer needed.
+
+4. Networking
+hostname -I
+Shows the Raspberry Pi's IP address.
+
+ifconfig
+Displays the network interfaces and their configuration.
+
+ping <host>
+Ping a host (e.g., ping google.com) to check network connectivity.
+
+sudo raspi-config
+Open the Raspberry Pi configuration tool to set up networking, expand filesystem, and other options.
+
+iwconfig
+Shows wireless network configurations (if you have a Wi-Fi adapter).
+
+nmcli
+Command-line interface for managing NetworkManager (useful for advanced Wi-Fi management).
+
+5. User Management
+whoami
+Displays the current logged-in username.
+
+adduser <username>
+Create a new user.
+
+passwd <username>
+Change the password of a user.
+
+usermod -aG <group> <username>
+Add a user to a group (e.g., sudo usermod -aG sudo pi).
+
+sudo su
+Switch to the root user.
+
+sudo
+Run commands with superuser privileges.
+
+6. Process Management
+ps aux
+Show all running processes.
+
+kill <PID>
+Kill a process by its Process ID (PID).
+
+killall <process_name>
+Kill all instances of a process.
+
+htop
+Interactive process viewer (install using sudo apt install htop if not available).
+
+7. System Control
+sudo reboot
+Reboot the Raspberry Pi.
+
+sudo shutdown -h now
+Shut down the Raspberry Pi immediately.
+
+sudo shutdown -r now
+Restart the Raspberry Pi immediately.
+
+sudo poweroff
+Power off the Raspberry Pi.
+
+8. Hardware & GPIO (General Purpose Input/Output)
+gpio -v
+Display the current status of the GPIO pins (requires the wiringpi package, install with sudo apt install wiringpi).
+
+gpio readall
+Display all GPIO pin states.
+
+9. Disk & Storage
+mount
+List mounted file systems.
+
+sudo mount <device> <mount_point>
+Mount a device or partition.
+
+sudo umount <device>
+Unmount a device or partition.
+
+fdisk -l
+List all available storage devices and their partitions.
+
+sudo blkid
+Display the UUIDs and types of the connected storage devices.
+
+10. Logging & Debugging
+dmesg
+Print the kernel ring buffer messages (useful for debugging hardware issues).
+
+tail -f /var/log/syslog
+Show real-time system logs.
+
+journalctl -xe
+View detailed system logs and messages.
+
+11. GPIO Pin Control (With pigpio Library)
+sudo pigpiod
+Start the pigpio daemon (needed for controlling GPIO pins via software).
+
+pigs p <pin> <value>
+Control a GPIO pin (e.g., pigs p 17 1 to set pin 17 high).
+
+12. Serial Communication
+screen /dev/ttyUSB0 9600
+Start a serial connection to a device (replace /dev/ttyUSB0 with your serial port).
+
+minicom -s
+Open the Minicom serial communication tool to configure serial ports.
