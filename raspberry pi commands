@@ -4,19 +4,19 @@ commands for rashpberrypi
 
 #1. System Information
 
-    hostname
+        hostname
 Displays the hostname of the Raspberry Pi.
 
-    uptime
+        uptime
 Shows how long the Raspberry Pi has been running, including the load averages.
 
-    vcgencmd measure_temp
+        vcgencmd measure_temp
 Shows the current CPU temperature.
 
-    free -h
+        free -h
 Displays the current memory usage.
 
-    df -h
+        df -h
 Displays the disk space usage.
 
     top
