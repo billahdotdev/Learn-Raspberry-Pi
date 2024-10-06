@@ -22,7 +22,7 @@ Displays the disk space usage.
         top
 Opens a real-time system monitor to show running processes.
 
-    uname -a
+        uname -a
 Displays detailed information about the system kernel.
 
 
