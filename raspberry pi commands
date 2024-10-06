@@ -19,7 +19,7 @@ Displays the current memory usage.
         df -h
 Displays the disk space usage.
 
-            top
+        top
 Opens a real-time system monitor to show running processes.
 
     uname -a
