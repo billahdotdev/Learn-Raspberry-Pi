@@ -28,34 +28,34 @@ Displays detailed information about the system kernel.
 
 
 #2. File System & Navigation
-    ls
+            ls
 List files and directories in the current directory.
 
-    cd <directory>
+            cd <directory>
 Change to a specified directory.
 
-    pwd
+            pwd
 Displays the current directory path.
 
-    mkdir <directory>
+            mkdir <directory>
 Create a new directory.
 
-    rm <file>
+            rm <file>
 Remove (delete) a file.
 
-    rm -r <directory>
+            rm -r <directory>
 Remove a directory and its contents recursively.
 
-    cp <source> <destination>
+            cp <source> <destination>
 Copy files or directories.
 
-    mv <source> <destination>
+            mv <source> <destination>
 Move or rename files or directories.
 
-    nano <file>
+            nano <file>
 Open a file in the Nano text editor.
 
-    cat <file>
+            cat <file>
 View the contents of a file.
 
 
