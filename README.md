@@ -3,6 +3,7 @@
 **The Raspberry Pi is a series of small, affordable, single-board computers developed by the Raspberry Pi Foundation, a UK-based charity organization.
 The Raspberry Pi 5 is the latest model that comes in 1 GB, 2 GB, 4 GB, and 8 GB models. The 8 GB model has a quad-core Broadcom BCM2712 ARM Cortex-A76 64-bit processor clocked at 2.4 GHz, and 8 GB of LPDDR4X-4267 RAM. 
 
+
 It also has the following features:**        
 
 • Two microHDMI connectors        
