@@ -223,5 +223,5 @@ Control a GPIO pin (e.g., pigs p 17 1 to set pin 17 high).
 Start a serial connection to a device (replace /dev/ttyUSB0 with your serial port).
 
     minicom -s
-Open the Minicom serial communication tool to configure serial ports.  
+Open the Minicom serial communication tool to configure serial ports.    
 
