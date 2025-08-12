@@ -219,3 +219,4 @@ Start a serial connection to a device (replace /dev/ttyUSB0 with your serial por
 
     minicom -s
 Open the Minicom serial communication tool to configure serial ports.
+
