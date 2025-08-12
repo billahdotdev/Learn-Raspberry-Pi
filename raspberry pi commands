@@ -1,10 +1,11 @@
 commands for rashpberrypi       
 -------------------------
--------------------------
+
 
 #1. System Information
 
-        hostname
+                hostname
+
 Displays the hostname of the Raspberry Pi.
 
         uptime
