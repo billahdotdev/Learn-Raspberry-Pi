@@ -9,7 +9,9 @@ commands for rashpberrypi
 Displays the hostname of the Raspberry Pi.
 
         uptime
+
 Shows how long the Raspberry Pi has been running, including the load averages.
+
 
         vcgencmd measure_temp
 Shows the current CPU temperature.
