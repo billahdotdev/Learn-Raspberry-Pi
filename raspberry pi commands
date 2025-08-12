@@ -32,6 +32,7 @@ Displays detailed information about the system kernel.
 
 
 #2. File System & Navigation
+
             ls
 List files and directories in the current directory.
 
