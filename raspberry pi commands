@@ -14,6 +14,7 @@ Shows how long the Raspberry Pi has been running, including the load averages.
 
 
         vcgencmd measure_temp
+
 Shows the current CPU temperature.
 
         free -h
